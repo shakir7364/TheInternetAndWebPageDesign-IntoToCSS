@@ -1,2 +1,4 @@
-# TheInternetAndWebPageDesign-IntoToCSS
- The Internet And Web Page Design First CSS Assignment
+# The Internet And Web Page Design First CSS Assignment
+This is an introduction to adding CSS to an HTML file. More importantly though, this assignment showcases how errors are handled differently in CSS files versus HTML files. As such, this website is intentionally left with errors that need to be fixed. The HTML file intentionally has an extra "s" in the <body> element and doesn't end the <link> element with a </link>. Despite these errors, the file still runs which can make debugging a little difficult. The CSS file has an out-of-place "color:white" line that causes it to fail when the HTML file tries to link to it. To visually see what this assignment intends to showcase, remove the "color:white" line from the CSS file, save the change, then run the HTML file.
+
+To view the website yourself, download the AssignmentFiles.rar file and run the firstTest.html file.
